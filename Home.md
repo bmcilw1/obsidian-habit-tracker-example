@@ -8,5 +8,4 @@ Instead, it serves as a simple example of how to combine a habit system with a p
 
 ## Next Steps
 
-1. Look at the `Calendar` folder
-2. Check out the the [[+Habit Tracker]]
+Check out the the [[Habit Dashboard]]
