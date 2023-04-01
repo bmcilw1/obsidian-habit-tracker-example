@@ -6,16 +6,7 @@ This is not meant to be a full introduction into the power of Obsidian as a Seco
 
 Instead, it serves as a simple example of how to combine a habit system with a personal journal/diary in Obsidan.
 
-```tracker
-searchType: dvField
-searchTarget: mood
-datasetName: Mood
-folder: Calendar
-line:
-    title: "Mood"
-    yAxisLabel: Mood
-    lineColor: "#d65d0e"
-    yAxisTickInterval: 1
-    yAxisTickLabelFormat: i
-    yMin: 0
-```
+## Next Steps
+
+1. Look at the `Calendar` folder
+2. Check out the the [[+Habit Tracker]]

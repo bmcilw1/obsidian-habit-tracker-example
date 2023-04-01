@@ -1,3 +1,5 @@
 date:: {{date}}
-mood:: 3
+meditation:: 1
+workout:: 1
+mood:: 5
 
