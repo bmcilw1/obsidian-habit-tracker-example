@@ -1,4 +1,4 @@
-Welcome to an example [Obsidian](https://obsidian.md/) vault for habit tracking!
+Welcome to an example [Obsidian](https://obsidian.md/) vault for habit tracking! If you need help opening this in Obsidian, see the [README](README.md)
 
 ## Objective
 
