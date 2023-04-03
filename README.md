@@ -1,4 +1,4 @@
-Hi there! You can learn about what this kit is and how to use at on the [Home](./Home.md) note!
+Hi there! After you've opened this in [Obsidian](https://obsidian.md/), you can learn about what this kit is and how to use at on the [Home](./Home.md) note!
 
 ## Getting Started
 
