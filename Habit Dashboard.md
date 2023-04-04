@@ -22,6 +22,11 @@ month:
   annotation: 💪, 🧘‍♂️
 ```
 
+> [!info] 
+> You can see the code to create these charts by hovering to the right of a chart and clicking the `</>` button!
+> 
+> Order matters in these charts. If you have multilple items you wish to track, the order is set by what you list in the `searchTarget`. You need to make the `datasetName` and `annotation` lists match.
+
 
 ```tracker
 searchType: dvField
@@ -37,7 +42,6 @@ line:
     yMin: 0
 ```
 
-> Hover the mouse over a chart and click the `</>` icon at the top right to see the command used to generate the chart.
 
 ## Next Steps
 

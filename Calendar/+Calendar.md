@@ -23,3 +23,5 @@ Look at the left sidebar and see the icon that looks like a calendar.
 
 1. Click it and fill out an entry for today
 2. Notice that a template is loaded to help you save time. This template is stored in the `Templates` folder
+
+Next, go to the [[Personalize]] note!
